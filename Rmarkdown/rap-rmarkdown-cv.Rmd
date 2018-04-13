@@ -62,10 +62,9 @@ urlcolor: blue
 
 # TEACHING
 
-*Instructor, Data Wrangling for Ecologists, GGE 298, University of California Davis* \hfill Winter Quarter 2017
+*Instructor, R for Data Analysis and Visualization in Science* \hfill 2017-2018
 
-> Teach 25+ graduate students in ecology how to use R to interact with data including: data structure, version control, and programming for data manipulation, analysis, and visualization. Built website and made course materials openly available on github. (https://gge-ucd.github.io/wRangling-Ecology/) (https://github.com/gge-ucd/wRangling_Seminar).
-
+> Lead instructor for graduate course teaching R and version control for 25+ students. Course designed to train students in toolsets applicable to the entire process of reproducible data-driven research and encourage the use of open-source tools. Built website and made course materials openly available on github. (https://gge-ucd.github.io/R-DAVIS/).
 
 # 
 
@@ -91,7 +90,9 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Milner, V.S., R.A. Peek, S.M. Yarnell. 2017. "The ecological importance of unregulated tributaries to benthic invertebrate communities in a regulated river." *Hydrobiologia* *__in review__*
+Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2018. A Freshwater Blueprint for California: Prioritizing freshwater habitat for conservation in California to maximize biodiversity and leverage existing protected areas. *Freshwater Science* *__in press__*.
+
+Milner, V.S., R.A. Peek, S.M. Yarnell. 2018. "The ecological importance of unregulated tributaries to benthic invertebrate communities in a regulated river." *Hydrobiologia* *__in review__*
 
 Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* 1–-15. DOI: 10.1111/fwb.12994.
 
@@ -126,6 +127,8 @@ Kupferberg, S.J., W.J. Palen, A.J. Lind, S. Bobzien, A. Catenazzi, J. Drennan, a
 Knapp, R.A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish results in population expansion of a declining amphibian (mountain yellow-legged frog, *Rana muscosa*)." *Biological Conservation* 135(1): 11--20. 
 
 # PRESENTATIONS
+
+**2018. Peek, R. A., M. R. Miller.** "Dammed Rivers: Genetic Signatures of Altered Flow Regimes in a River Breeding Frog (*Rana boylii*)." Amphibian Population Task Force (APTF), Auburn, 11--12 Jan.
 
 **2017. Peek, R. A., S. Yarnell.** "Plasticity in timing of hydrologic spawning cues for the foothill yellow-legged frog (*Rana boylii*) under Mediterranean climate extremes in Sierra Nevada rivers." Society for Freshwater Science (SFS) Annual Meeting, Raleigh, NC, 5--8 Jun.
 

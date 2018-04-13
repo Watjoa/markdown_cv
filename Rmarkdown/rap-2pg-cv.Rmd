@@ -68,6 +68,8 @@ urlcolor: blue
 
 # SELECTED PUBLICATIONS
 
+Howard et al. 2018. A Freshwater Blueprint for California: Prioritizing freshwater habitat for conservation in California to maximize biodiversity and leverage existing protected areas. *Freshwater Science* in press.
+
 Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* 1–-15. DOI: 10.1111/fwb.12994.
 
 Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
