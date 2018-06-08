@@ -7,7 +7,7 @@ geometry: margin=1in
 
 title: "CV"
 author: Ryan A. Peek
-orcid: "orcid.org/0000-0002-9577-6885"
+orcid: "orcid.org/0002-9577-6885"
 jobtitle: "PhD Candidate, Ecology, UC Davis"
 address: "1000 Tulip Lane · Davis · CA 95618"
 fontawesome: yes
@@ -90,9 +90,11 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2018. A Freshwater Blueprint for California: Prioritizing freshwater habitat for conservation in California to maximize biodiversity and leverage existing protected areas. *Freshwater Science* *__in press__*.
+Peek, R.P., S.M. O'Rourke, M.R. Miller. 2018. "Flow regulation associated with decreased genetic health of a river-breeding frog species." https://doi.org/10.1101/316604. *__in review__*.
 
-Milner, V.S., R.A. Peek, S.M. Yarnell. 2018. "The ecological importance of unregulated tributaries to benthic invertebrate communities in a regulated river." *Hydrobiologia* *__in review__*
+Milner, V.S., R.A. Peek, S.M. Yarnell. 2018. "The ecological importance of unregulated tributaries to benthic invertebrate communities in a regulated river." *__in review__*.
+
+Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2018. "A Freshwater Blueprint for California: Prioritizing freshwater habitat for conservation in California to maximize biodiversity and leverage existing protected areas." *Freshwater Science* 37: 417--431. DOI: 10.1086/697996
 
 Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* 1–-15. DOI: 10.1111/fwb.12994.
 
@@ -127,6 +129,8 @@ Kupferberg, S.J., W.J. Palen, A.J. Lind, S. Bobzien, A. Catenazzi, J. Drennan, a
 Knapp, R.A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish results in population expansion of a declining amphibian (mountain yellow-legged frog, *Rana muscosa*)." *Biological Conservation* 135(1): 11--20. 
 
 # PRESENTATIONS
+
+**2018. Peek, R. A.** (Invited Instructor) "*Rana boylii* Conservation and Management Workshop." The Wildlife Society (TWS), Arcata, May 31--Jun 3.
 
 **2018. Peek, R. A., M. R. Miller.** "Dammed Rivers: Genetic Signatures of Altered Flow Regimes in a River Breeding Frog (*Rana boylii*)." Amphibian Population Task Force (APTF), Auburn, 11--12 Jan.
 
